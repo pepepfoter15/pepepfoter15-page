@@ -1,7 +1,7 @@
 ---
 title: Proyecto de MongoDB
 subtitle: Gestión de Bases de Datos
-date: 2023-10-19
+date: 19-10-2023
 tags: ["mongo", "bbdd", "sql"]
 bigimg: [{src: "../img/triangle.jpg", desc: "Triangle"}, {src: "../img/sphere.jpg", desc: "Sphere"}, {src: "../img/hexagon.jpg", desc: "Hexagon"}]
 ---

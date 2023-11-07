@@ -1,7 +1,7 @@
 ---
 title: Configuración Windows Server Core 2019 SSH 
 subtitle: Implantación de Sistemas Operativos - ISO
-date: 2023-10-19
+date: 19-10-2023
 tags: ["debian", "windows", "ssh"]
 bigimg: [{src: "../img/triangle.jpg", desc: "Triangle"}, {src: "../img/sphere.jpg", desc: "Sphere"}, {src: "../img/hexagon.jpg", desc: "Hexagon"}]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Underworld Evolution
 subtitle: Planificación y Administración de Redes - PAR
-date: 2023-10-19
+date: 19-10-2023
 tags: ["redes", "iptables"]
 bigimg: [{src: "../img/triangle.jpg", desc: "Triangle"}, {src: "../img/sphere.jpg", desc: "Sphere"}, {src: "../img/hexagon.jpg", desc: "Hexagon"}]
 ---
