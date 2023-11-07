@@ -1,4 +1,4 @@
-baseURL= "http://www.pepepfoter15.es"
+baseURL= "https://www.pepepfoter15.es"
 DefaultContentLanguage = "es"
 title = "Pfoter's Blog"
 pygmentsStyle = "trac"
