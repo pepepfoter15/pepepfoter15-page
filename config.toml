@@ -71,13 +71,13 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Proyectos"
     name = "UNDERWORLD EVOLUTION - PAR"
-    url = "post/underworld"
+    url = "post/underworldevolution-par"
     weight = 3
 
 [[menu.main]]
     parent = "Proyectos"
     name = "Proyecto de MongoDB - BBDD"
-    url = "post/proyectomongo-bddd"
+    url = "post/proyectomongo-bbdd"
     weight = 2
 
 [[menu.main]]
